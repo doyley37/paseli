@@ -2,6 +2,8 @@
 permalink:        pretty
 
 # Setup
+baseurl:          /paseli    # Change this to your repo name on GitHub Pages
+url:              ""         # Leave empty for GitHub Pages
 
 title:            Elisabetta & Pascal are getting married!
 partner1:         Elisabetta
