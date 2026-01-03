@@ -1,0 +1,15 @@
+- title: Home
+  page: index.html
+  url: /
+- title: Story
+  page: story.html
+  url: /story
+- title: Venue
+  page: venue.html
+  url: /venue
+- title: Gallery
+  page: gallery.html
+  url: /gallery
+- title: RSVP
+  page: rspv.html
+  url: /rsvp
