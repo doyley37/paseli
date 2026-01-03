@@ -12,7 +12,7 @@
                     {% assign class = '' %}
                     {% for story in stories %}
                         <li class="{{ class }} animate-box">
-                            <div class="timeline-badge" style="background-image:url({{ story.image }});"></div>
+                            <div class="timeline-badge" style="background-image:url({{ site.baseurl }}{{ story.image }});"></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h3 class="timeline-title">{{ story.title }}</h3>
