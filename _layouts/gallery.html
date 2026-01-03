@@ -8,7 +8,7 @@ layout: empty
 
 {% include nav.html %}
 
-<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(/assets/images/bg_story.webp);">
+<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url({{ site.baseurl }}/assets/images/bg_story.webp);">
     <div class="overlay"></div>
     <div class="fh5co-container">
         <div class="row">
@@ -37,7 +37,7 @@ layout: empty
                     {% for file in site.static_files %}
                         {% if file.path contains include_folder %}
                             {% if file.name != 'index.webp' %}
-                                <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ file.path }}); ">
+                                <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ site.baseurl }}{{ file.path }}); ">
                                 </li>
                             {% endif %}
                         {% endif %}

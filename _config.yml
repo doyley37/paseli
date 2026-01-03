@@ -2,6 +2,8 @@
 permalink:        pretty
 
 # Setup
+baseurl:          /paseli
+url:              https://doyley37.github.io
 
 title:            Elisabetta & Pascal are getting married!
 partner1:         Elisabetta
