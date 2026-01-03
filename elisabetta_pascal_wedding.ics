@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20251105T203809Z
+UID:1762374348086@elisabetta.pascal
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:Elisabetta & Pascal Wedding Weekend
+URL:https://elisabetta.pascal/venue/
+LOCATION:Blue Elk Inn\, 500 Alpine Pl\, Leavenworth\, WA\, 98826\, United States
+END:VEVENT
+END:VCALENDAR
+
