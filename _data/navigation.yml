@@ -1,15 +1,27 @@
 - title: Home
   page: index.html
   url: /
-- title: Story
-  page: story.html
-  url: /story
-- title: Venue
-  page: venue.html
-  url: /venue
-- title: Gallery
-  page: gallery.html
-  url: /gallery
-- title: RSVP
-  page: rspv.html
-  url: /rsvp
+#- title: Story
+#  page: story.html
+#  url: /story
+- title: Location
+  page: location.html
+  url: /location
+#- title: Gallery
+#  page: gallery.html
+#  url: /gallery
+- title: Dress Code
+  page: dresscode.html
+  url: /dresscode
+- title: Übernachtung
+  page: accomodation.html
+  url: /accomodation
+- title: Support
+  page: support.html
+  url: /support
+- title: An & Abmeldung
+  page: anmeldung.html
+  url: /anmeldung
+- title: Geschenkideen
+  page: gifts.html
+  url: /gifts
