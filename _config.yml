@@ -5,7 +5,7 @@ permalink:        pretty
 baseurl:          ""
 url:              https://paseli.ch
 
-title:            Elisabetta & Pascal are getting married!
+title:            Elisabetta & Pascal heiraten!
 partner1:         Elisabetta
 partner2:         Pascal
 wedding-year:     2026
@@ -14,5 +14,5 @@ wedding-day:      25
 wedding-hour:     16
 wedding-tag:      Juli 25, 2026 Montreux
 wedding-location: Fairmont Montreux Palace, Montreux, VD
-copyright:        Pascal Baur & Elisabetta
-rsvp-link:        https://www.zola.com/wedding/elisabettaandpascal/rsvp
+copyright:        Elisabetta & Pascal
+#rsvp-link:        https://www.zola.com/wedding/elisabettaandpascal/rsvp
