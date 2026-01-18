@@ -16,6 +16,9 @@
 - title: Übernachtung
   page: accomodation.html
   url: /accomodation
+- title: Tagesprogramm
+  page: tagesprogramm.html
+  url: /tagesprogramm
 - title: Team
   page: support.html
   url: /team
