@@ -13,18 +13,18 @@
 - title: Dress Code
   page: dresscode.html
   url: /dresscode
-- title: Übernachtung
+- title: Hotel
   page: accomodation.html
   url: /accomodation
-- title: Tagesprogramm
+- title: Programm
   page: tagesprogramm.html
   url: /tagesprogramm
 - title: Support
   page: support.html
   url: /support
-- title: An & Abmeldung
+- title: RSVP
   page: anmeldung.html
   url: /anmeldung
-- title: Geschenkideen
+- title: Geschenke
   page: gifts.html
   url: /gifts
