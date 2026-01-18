@@ -16,9 +16,9 @@
 - title: Übernachtung
   page: accomodation.html
   url: /accomodation
-- title: Support
+- title: Team
   page: support.html
-  url: /support
+  url: /team
 - title: An & Abmeldung
   page: anmeldung.html
   url: /anmeldung
