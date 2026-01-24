@@ -1085,8 +1085,6 @@ form label {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  object-fit: cover;
-  object-position: center top;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
@@ -1097,8 +1095,6 @@ form label {
     width: 120px;
     height: 120px;
     margin: 0 auto;
-    object-fit: cover;
-    object-position: center top;
   }
 }
 .couple-half .bride {
